@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eea9b19e-f146-47d9-81f6-85d7fa035ded" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hdvtm2iZ1CwGweqqCE2haqRfUJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea9b19e-f146-47d9-81f6-85d7fa035ded" name="Default Changelist" comment="" />
+      <created>1600354000514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600354000514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="612" y="145" width="278" height="644" key="#Code_Folding" timestamp="1600549149441">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="612" y="145" width="278" height="644" key="#Code_Folding/72.27.1368.873@72.27.1368.873" timestamp="1600549149441" />
+    <state x="214" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600455691974">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="214" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1368.873@72.27.1368.873" timestamp="1600455691974" />
+    <state x="615" y="365" width="629" height="206" key="Github.ShareDialog" timestamp="1600727221491">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="615" y="365" width="629" height="206" key="Github.ShareDialog/72.27.1368.873@72.27.1368.873" timestamp="1600727221491" />
+    <state width="1345" height="256" key="GridCell.Tab.0.bottom" timestamp="1600726375743">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="256" key="GridCell.Tab.0.bottom/72.27.1368.873@72.27.1368.873" timestamp="1600726375743" />
+    <state width="1345" height="256" key="GridCell.Tab.0.center" timestamp="1600726375743">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="256" key="GridCell.Tab.0.center/72.27.1368.873@72.27.1368.873" timestamp="1600726375743" />
+    <state width="1345" height="256" key="GridCell.Tab.0.left" timestamp="1600726375742">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="256" key="GridCell.Tab.0.left/72.27.1368.873@72.27.1368.873" timestamp="1600726375742" />
+    <state width="1345" height="256" key="GridCell.Tab.0.right" timestamp="1600726375743">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="256" key="GridCell.Tab.0.right/72.27.1368.873@72.27.1368.873" timestamp="1600726375743" />
+    <state width="1345" height="256" key="GridCell.Tab.1.bottom" timestamp="1600726375745">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="256" key="GridCell.Tab.1.bottom/72.27.1368.873@72.27.1368.873" timestamp="1600726375745" />
+    <state width="1345" height="256" key="GridCell.Tab.1.center" timestamp="1600726375744">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="256" key="GridCell.Tab.1.center/72.27.1368.873@72.27.1368.873" timestamp="1600726375744" />
+    <state width="1345" height="256" key="GridCell.Tab.1.left" timestamp="1600726375744">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="256" key="GridCell.Tab.1.left/72.27.1368.873@72.27.1368.873" timestamp="1600726375744" />
+    <state width="1345" height="256" key="GridCell.Tab.1.right" timestamp="1600726375745">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state width="1345" height="256" key="GridCell.Tab.1.right/72.27.1368.873@72.27.1368.873" timestamp="1600726375745" />
+    <state x="245" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1600550324500">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="245" y="98" width="1022" height="737" key="SettingsEditor/72.27.1368.873@72.27.1368.873" timestamp="1600550324500" />
+    <state x="296" y="113" width="910" height="707" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600455613569">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="296" y="113" width="910" height="707" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1368.873@72.27.1368.873" timestamp="1600455613569" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="6267">
+        <watch expression="request.form['state']" language="Python" />
+        <watch expression="artist.state" language="Python" />
+        <watch expression="request.form['address']" language="Python" />
+      </configuration>
+      <configuration name="11162">
+        <watch expression="request.form.get['search_term']" language="Python" />
+        <watch expression="request.form.get('search_term')" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
